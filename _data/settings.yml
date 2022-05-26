@@ -10,10 +10,10 @@ header_settings:
 
 menu_settings:
   menu_items:
-  #  - title: 'Latest'
-  #    url: '/'
-  #  - title: 'Projects'
-  #    url: '/projects/'
+    - title: 'Obituary'
+      url: 'https://www.ldnews.com/obituaries/mpa087763'
+    - title: 'Send Flowers'
+      url: 'https://www.ftd.com/gannett'
   #  - title: 'About'
   #    url: '/about'
   #  - title: 'Contact'
