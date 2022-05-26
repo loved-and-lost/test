@@ -1,7 +1,7 @@
 site: Simples Jekyll Theme
 
 url: 
-baseurl: 
+baseurl: test
 
 collections:
   pages:
