@@ -5,7 +5,7 @@ subtitle:
 featured_image: /images/avatar.jpg
 ---
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="2">
 	<img src="/images/photos/01.jpg">
 	<img src="/images/photos/02.jpg">
 	<img src="/images/photos/03.jpg">
