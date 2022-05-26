@@ -1,7 +1,7 @@
 basic_settings:
-  site_title: Simples
-  site_tagline: A super simple blogging theme for Jekyll.
-  favicon_image: /images/favicon.png
+  site_title: Kati Swisher
+  site_tagline: 
+  favicon_image: /images/favicon.ico
 
 header_settings:
   avatar_image: /images/avatar.jpg
@@ -10,14 +10,14 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
-      url: '/'
-    - title: 'Projects'
-      url: '/projects/'
-    - title: 'About'
-      url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+  #  - title: 'Latest'
+  #    url: '/'
+  #  - title: 'Projects'
+  #    url: '/projects/'
+  #  - title: 'About'
+  #    url: '/about'
+  #  - title: 'Contact'
+  #    url: '/contact'
 
 grid_settings:
   grid_spacing: 10
