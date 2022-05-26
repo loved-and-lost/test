@@ -1,7 +1,7 @@
-site: Simples Jekyll Theme
+site: Kati Swisher
 
 url: 
-baseurl: test
+baseurl: 
 
 collections:
   pages:
